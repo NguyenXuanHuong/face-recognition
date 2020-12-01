@@ -1,0 +1,78 @@
+{
+  "addMember" : {
+    "appRequest" : 1,
+    "appResponse" : 1
+  },
+  "diemdanh" : {
+    "12-08-2020" : {
+      "01694325070" : {
+        "timeEnter" : "20:12"
+      },
+      "112-52-29-164-253!!!" : {
+        "timeEnter" : "21:38"
+      },
+      "137-231-231-110-231!" : {
+        "timeEnter" : "20:14"
+      },
+      "171-105-77-34-173!!" : {
+        "timeEnter" : "20:12"
+      },
+      "171-235-210-34-176!" : {
+        "timeEnter" : "20:14"
+      },
+      "187-2-148-34-15!!!" : {
+        "timeEnter" : "20:12"
+      }
+    },
+    "27-07-2020" : {
+      "171-105-77-34-173" : {
+        "timeEnter" : "20:41",
+        "timeExit" : "20:41"
+      },
+      "187-2-148-34-15" : {
+        "timeEnter" : "20:41"
+      }
+    }
+  },
+  "employees" : {
+    "123456789" : {
+      "birthDay" : "4-8-2020",
+      "email" : "nga@gmail.com",
+      "faceid" : "0",
+      "gender" : 0,
+      "id" : "123456789",
+      "linkAnh" : "https://firebasestorage.googleapis.com/v0/b/deviot-may-cham-cong.appspot.com/o/images%2FNga123456789.png?alt=media&token=bd9a71aa-527d-4989-a42e-39cd2a4c3a76",
+      "lock" : false,
+      "name" : "Nga",
+      "nameSecondary" : "Nga",
+      "phone" : "123456789",
+      "rfid" : "0"
+    },
+    "0394325070" : {
+      "birthDay" : "11-8-2020",
+      "email" : "tuan.trinhngoc95@gmail.com",
+      "faceid" : "0",
+      "gender" : 0,
+      "id" : "0394325070",
+      "linkAnh" : "https://firebasestorage.googleapis.com/v0/b/deviot-may-cham-cong.appspot.com/o/images%2FTuan0394325070.png?alt=media&token=86b8b06f-3ffd-4d8f-a99d-169b1309668b",
+      "lock" : false,
+      "name" : "Tuấn",
+      "nameSecondary" : "Tuan",
+      "phone" : "0394325070",
+      "rfid" : "0"
+    },
+    "1234567890" : {
+      "birthDay" : "4-8-2020",
+      "email" : "giabg@gmail.com",
+      "faceid" : "0",
+      "gender" : 0,
+      "id" : "1234567890",
+      "linkAnh" : "https://firebasestorage.googleapis.com/v0/b/deviot-may-cham-cong.appspot.com/o/images%2FGiang1234567890.png?alt=media&token=7a184efa-37c0-4f59-9994-b4a47c46710a",
+      "lock" : false,
+      "name" : "Giang",
+      "nameSecondary" : "Giang",
+      "phone" : "1234567890",
+      "rfid" : "0"
+    }
+  }
+}
